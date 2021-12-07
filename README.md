@@ -15,22 +15,6 @@
     - Commissions - https://theauralartist.carrd.co/  
 
 
-
-Here are the games I really love playing!  
-- Little Nightmares Series
-- Apex Legends
-- Left 4 Dead 2
-- Team Fortress 2
-- Minecraft
-- Terraria
-- osu!
-- Doki Doki Literature Club/Plus!
-- Helltaker
-- Danganronpa Series
-- House
-- GO HOME
-- Mr. Hopp's Playhouse Series
-
 <!---
 TheAuralArtist/TheAuralArtist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
